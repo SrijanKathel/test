@@ -5,3 +5,5 @@ print("Editedddd")
 
 
 print("fdsfdf)
+
+console.log(Error)
